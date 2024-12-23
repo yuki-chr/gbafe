@@ -1,12 +1,10 @@
 # GBAFE
 
-***
 
 Hi! I'm Snow (aka Yuki) and this is my GBAFE code repo. At the moment I have made only a single hack but maybe it will be more populated in the future, who knows.
 
 You can use anything you find here in your projects without restrictions, but if you want to credit me when doing so I appreciate.
 
-***
 
 ## ASM
 *Because I like making my life harder just to prove a point*
